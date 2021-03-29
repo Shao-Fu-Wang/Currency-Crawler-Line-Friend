@@ -3,4 +3,4 @@ A bot that tells you what the currency rate is. Crawled from: https://rate.bot.c
 
 ----------------------------------------------------------------------------------------------------
 scraper.py -->  main program that crawls data from 台灣銀行.  
-app.py -->  a LINE bot that could rum on Heroku cloud platform.
+app.py -->  a LINE bot that could ru on Heroku cloud platform.
